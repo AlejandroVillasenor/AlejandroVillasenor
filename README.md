@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Villasenor</h1>
 <h3 align="center">Computer Engineering Student from Mexico</h3>
+
+![snake gif](https://github.com/AlejandroVillasenor/AlejandroVillasenor/blob/output/github-contribution-grid-snake.gif)
 <img align="right" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrovillasenor&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrovillasenor" /> </p>
@@ -26,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrovillasenor&show_icons=true&locale=en" alt="alejandrovillasenor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrovillasenor&" alt="alejandrovillasenor" /></p>
-
-
