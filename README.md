@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrovillasenor&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrovillasenor" /> </p>
 
-- 🌱 I’m currently learning **Web development and OOP**
+- 📝 I’m currently learning **Web development and OOP**
 
-- 💬 Ask me about **linux, python and shell scripting**
+- 💬 Ask me about **Linux, Python and shell scripting**
 
 - 📫 How to reach me **alejandro.villasenor.11@gmail.com**
 
-- ⚡ Fun fact **I like to ride my motorcycle**
+- 🏍 Fun fact **I like to ride my motorcycle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
