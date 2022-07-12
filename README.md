@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro Villasenor</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Villasenor</h1>
 <h3 align="center">Computer Engineering Student from Mexico</h3>
 
 ![snake gif](https://github.com/AlejandroVillasenor/AlejandroVillasenor/blob/output/github-contribution-grid-snake.gif)
