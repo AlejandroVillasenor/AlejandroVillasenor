@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Linux, Python and shell scripting**
 
-- 📫 How to reach me **alejandro.villasenor.11@gmail.com**
+- 📫 How to reach me: **alejandro.villasenor.11@gmail.com**
 
-- 🏍 Fun fact **I like to ride my motorcycle**
+- 🏍 Fun fact: **I like to ride my motorcycle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
