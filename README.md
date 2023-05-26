@@ -8,7 +8,7 @@
 
 - 📝 I’m currently learning **OS and OOP**
 
-- 💬 Ask me about **Linux, Python and shell scripting**
+- 💬 Ask me about **Linux, C++ and shell scripting**
 
 - 📫 How to reach me: **alejandro.villasenor.11@gmail.com**
 
