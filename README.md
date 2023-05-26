@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrovillasenor&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrovillasenor" /> </p>
 
-- 📝 I’m currently learning **Web development and OOP**
+- 📝 I’m currently learning **OS and OOP**
 
 - 💬 Ask me about **Linux, Python and shell scripting**
 
