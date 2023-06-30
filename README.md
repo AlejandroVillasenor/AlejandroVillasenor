@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrovillasenor&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrovillasenor" /> </p>
 
-- 📝 I’m currently learning **OS and OOP**
+- 📝 I’m currently learning **OS and AI**
 
-- 💬 Ask me about **Linux, C++ and shell scripting**
+- 💬 Ask me about **Linux, C++ and Computer Architecture**
 
 - 📫 How to reach me: **alejandro.villasenor.11@gmail.com**
 
