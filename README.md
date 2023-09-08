@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Villasenor</h1>
 <h3 align="center">Computer Engineering Student from Mexico</h3>
-
-![snake gif](https://github.com/AlejandroVillasenor/AlejandroVillasenor/blob/output/github-contribution-grid-snake.gif)
 <img align="right" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrovillasenor&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrovillasenor" /> </p>
