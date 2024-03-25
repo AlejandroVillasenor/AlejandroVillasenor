@@ -6,7 +6,7 @@
 
 - 📝 I’m currently learning **OS and AI**
 
-- 💬 Ask me about **Linux, C++ and Computer Architecture**
+- 💬 Ask me about **Linux, C++ and AI**
 
 - 📫 How to reach me: **alejandro.villasenor.11@gmail.com**
 
