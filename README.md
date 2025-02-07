@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Linux, C++ and AI**
 
-- 📫 How to reach me: **alejandro.villasenor.11@gmail.com**
-
 - 🏍 Fun fact: **I like to ride my motorcycle**
 
 <h3 align="left">Connect with me:</h3>
